@@ -1,0 +1,1201 @@
+CustomerID,Recency,Frequency,Monetary,R,F,M,Segment
+C1000,177,4,619.42,3,2,3,Regular Customers
+C1001,257,5,400.24,2,3,2,At Risk
+C1002,15,4,429.46000000000004,5,2,2,Potential Loyalists
+C1003,288,6,948.27,1,4,4,Loyal Customers
+C1004,52,6,827.1700000000001,4,4,4,Champions
+C1005,53,2,432.06,4,1,2,New Customers
+C1006,248,5,894.11,2,3,4,At Risk
+C1007,299,2,419.43,1,1,2,Lost
+C1008,194,7,560.41,3,4,3,Loyal Customers
+C1009,27,9,589.6800000000001,5,5,3,Champions
+C1010,169,3,291.54999999999995,3,2,2,Regular Customers
+C1011,126,5,706.7,4,3,3,Potential Loyalists
+C1012,17,6,633.19,5,4,3,Champions
+C1013,137,7,704.58,4,4,3,Champions
+C1014,226,3,431.85,3,2,2,Regular Customers
+C1015,199,3,317.71,3,2,2,Regular Customers
+C1016,344,1,85.99,1,1,1,Lost
+C1017,191,3,270.59000000000003,3,2,1,Regular Customers
+C1018,144,13,3138.92,4,5,5,Champions
+C1019,234,5,449.9,2,3,2,At Risk
+C1020,209,12,1230.26,3,5,5,Loyal Customers
+C1021,238,4,626.0,2,2,3,About to Sleep
+C1022,31,5,641.72,5,3,3,Potential Loyalists
+C1023,309,3,315.93,1,2,2,About to Sleep
+C1024,5,3,737.77,5,2,4,Potential Loyalists
+C1025,257,4,544.69,2,2,3,About to Sleep
+C1026,342,2,213.46999999999997,1,1,1,Lost
+C1027,39,6,817.49,5,4,4,Champions
+C1028,283,3,209.66,2,2,1,About to Sleep
+C1029,39,9,1347.54,5,5,5,Champions
+C1030,282,3,209.72,2,2,1,About to Sleep
+C1031,15,15,2123.04,5,5,5,Champions
+C1032,261,1,42.22,2,1,1,Lost
+C1033,251,4,628.0799999999999,2,2,3,About to Sleep
+C1034,14,7,964.18,5,4,4,Champions
+C1035,349,1,67.73,1,1,1,Lost
+C1036,310,2,309.48,1,1,2,Lost
+C1037,9,8,913.93,5,4,4,Champions
+C1038,265,9,1639.88,2,5,5,Loyal Customers
+C1039,273,4,546.1800000000001,2,2,3,About to Sleep
+C1040,42,11,1268.28,5,5,5,Champions
+C1041,22,7,1617.68,5,4,5,Champions
+C1042,296,6,619.86,1,4,3,Loyal Customers
+C1043,339,1,40.34,1,1,1,Lost
+C1044,206,1,520.64,3,1,3,Regular Customers
+C1045,332,2,156.82,1,1,1,Lost
+C1046,68,6,739.3900000000001,4,4,4,Champions
+C1047,61,11,1311.64,4,5,5,Champions
+C1048,287,2,262.14,2,1,1,Lost
+C1049,256,7,1215.73,2,4,5,Loyal Customers
+C1050,7,13,1918.56,5,5,5,Champions
+C1051,364,1,74.21,1,1,1,Lost
+C1052,69,4,1377.03,4,2,5,Potential Loyalists
+C1053,5,5,726.08,5,3,3,Potential Loyalists
+C1054,231,4,371.46000000000004,3,2,2,Regular Customers
+C1055,313,5,633.59,1,3,3,At Risk
+C1056,292,2,264.88,1,1,1,Lost
+C1057,172,9,1504.79,3,5,5,Loyal Customers
+C1058,31,7,539.46,5,4,3,Champions
+C1059,245,4,411.52,2,2,2,About to Sleep
+C1060,38,10,1931.28,5,5,5,Champions
+C1061,273,1,25.06,2,1,1,Lost
+C1062,99,4,466.77,4,2,2,Potential Loyalists
+C1063,312,3,282.92,1,2,2,About to Sleep
+C1064,243,6,492.92,2,4,3,Loyal Customers
+C1065,108,10,728.6,4,5,3,Champions
+C1066,323,4,566.14,1,2,3,About to Sleep
+C1067,261,4,430.51,2,2,2,About to Sleep
+C1068,310,2,314.90999999999997,1,1,2,Lost
+C1069,41,15,3651.7200000000003,5,5,5,Champions
+C1070,233,1,23.35,2,1,1,Lost
+C1071,115,6,522.91,4,4,3,Champions
+C1072,339,2,93.18,1,1,1,Lost
+C1073,310,3,265.21999999999997,1,2,1,About to Sleep
+C1074,43,7,953.14,5,4,4,Champions
+C1075,13,8,1465.4,5,4,5,Champions
+C1076,49,6,1319.6200000000001,4,4,5,Champions
+C1077,288,4,305.6,1,2,2,About to Sleep
+C1078,158,7,914.47,4,4,4,Champions
+C1079,7,10,1654.4,5,5,5,Champions
+C1080,345,1,23.92,1,1,1,Lost
+C1081,45,5,520.57,4,3,3,Potential Loyalists
+C1082,99,7,686.13,4,4,3,Champions
+C1083,180,6,717.6,3,4,3,Loyal Customers
+C1084,75,7,1032.92,4,4,4,Champions
+C1085,137,7,774.63,4,4,4,Champions
+C1086,203,6,816.5799999999999,3,4,4,Loyal Customers
+C1087,45,5,753.79,4,3,4,Potential Loyalists
+C1088,221,9,1514.43,3,5,5,Loyal Customers
+C1089,169,7,775.81,3,4,4,Loyal Customers
+C1090,311,6,624.81,1,4,3,Loyal Customers
+C1091,200,1,60.44,3,1,1,Regular Customers
+C1092,255,1,137.51,2,1,1,Lost
+C1093,335,1,65.24,1,1,1,Lost
+C1094,5,7,1064.0,5,4,4,Champions
+C1095,19,10,1255.62,5,5,5,Champions
+C1096,167,4,503.72,3,2,3,Regular Customers
+C1097,357,2,189.76,1,1,1,Lost
+C1098,251,10,2239.61,2,5,5,Loyal Customers
+C1099,187,8,616.83,3,4,3,Loyal Customers
+C1100,73,6,959.87,4,4,4,Champions
+C1101,300,7,1768.65,1,4,5,Loyal Customers
+C1102,145,8,1170.68,4,4,5,Champions
+C1103,127,7,587.04,4,4,3,Champions
+C1104,43,4,316.56,5,2,2,Potential Loyalists
+C1105,57,12,1346.79,4,5,5,Champions
+C1106,96,5,708.46,4,3,3,Potential Loyalists
+C1107,271,8,1013.26,2,4,4,Loyal Customers
+C1108,72,8,1234.56,4,4,5,Champions
+C1109,220,3,390.37,3,2,2,Regular Customers
+C1110,51,12,2148.61,4,5,5,Champions
+C1111,310,3,226.86999999999998,1,2,1,About to Sleep
+C1112,14,10,1147.08,5,5,5,Champions
+C1113,253,2,152.66,2,1,1,Lost
+C1114,189,4,442.4,3,2,2,Regular Customers
+C1115,128,4,376.83000000000004,4,2,2,Potential Loyalists
+C1116,291,4,617.28,1,2,3,About to Sleep
+C1117,250,1,247.26,2,1,1,Lost
+C1118,308,2,164.82,1,1,1,Lost
+C1119,293,10,951.8199999999999,1,5,4,Loyal Customers
+C1120,308,4,398.89,1,2,2,About to Sleep
+C1121,270,2,366.25,2,1,2,Lost
+C1122,204,4,706.66,3,2,3,Regular Customers
+C1123,309,10,1456.59,1,5,5,Loyal Customers
+C1124,248,7,842.86,2,4,4,Loyal Customers
+C1125,313,7,903.87,1,4,4,Loyal Customers
+C1126,288,1,61.41,1,1,1,Lost
+C1127,29,10,1350.11,5,5,5,Champions
+C1128,22,13,2190.58,5,5,5,Champions
+C1129,302,3,184.79,1,2,1,About to Sleep
+C1130,253,9,754.89,2,5,4,Loyal Customers
+C1131,10,14,1702.75,5,5,5,Champions
+C1132,310,5,551.6800000000001,1,3,3,At Risk
+C1133,35,9,1235.42,5,5,5,Champions
+C1134,201,5,514.29,3,3,3,Regular Customers
+C1135,280,3,223.88,2,2,1,About to Sleep
+C1136,327,4,487.61,1,2,2,About to Sleep
+C1137,187,9,882.9599999999999,3,5,4,Loyal Customers
+C1138,161,7,733.53,4,4,3,Champions
+C1139,163,5,587.33,3,3,3,Regular Customers
+C1140,274,8,1138.68,2,4,5,Loyal Customers
+C1141,281,4,374.2,2,2,2,About to Sleep
+C1142,252,6,664.27,2,4,3,Loyal Customers
+C1143,61,7,895.56,4,4,4,Champions
+C1144,16,7,714.66,5,4,3,Champions
+C1145,248,8,992.69,2,4,4,Loyal Customers
+C1146,27,14,1782.71,5,5,5,Champions
+C1147,162,7,690.96,3,4,3,Loyal Customers
+C1148,137,5,306.62,4,3,2,Potential Loyalists
+C1149,208,3,529.99,3,2,3,Regular Customers
+C1150,219,6,1148.1100000000001,3,4,5,Loyal Customers
+C1151,117,7,605.6,4,4,3,Champions
+C1152,252,2,71.31,2,1,1,Lost
+C1153,236,1,225.41,2,1,1,Lost
+C1154,274,4,405.79999999999995,2,2,2,About to Sleep
+C1155,193,1,138.35,3,1,1,Regular Customers
+C1156,55,7,1029.33,4,4,4,Champions
+C1157,262,5,679.1,2,3,3,At Risk
+C1158,71,5,791.91,4,3,4,Potential Loyalists
+C1159,201,2,131.01,3,1,1,Regular Customers
+C1160,306,4,267.66,1,2,1,About to Sleep
+C1161,237,2,138.76999999999998,2,1,1,Lost
+C1162,204,1,244.12,3,1,1,Regular Customers
+C1163,314,5,888.33,1,3,4,At Risk
+C1164,328,1,96.74,1,1,1,Lost
+C1165,111,5,525.36,4,3,3,Potential Loyalists
+C1166,7,10,1646.94,5,5,5,Champions
+C1167,27,10,1361.13,5,5,5,Champions
+C1168,295,5,537.29,1,3,3,At Risk
+C1169,318,3,378.74,1,2,2,About to Sleep
+C1170,49,7,848.68,4,4,4,Champions
+C1171,309,5,529.8100000000001,1,3,3,At Risk
+C1172,305,3,485.23,1,2,2,About to Sleep
+C1173,51,6,663.16,4,4,3,Champions
+C1174,39,11,1834.5,5,5,5,Champions
+C1175,169,6,829.24,3,4,4,Loyal Customers
+C1176,48,10,1102.53,4,5,4,Champions
+C1177,263,3,384.71,2,2,2,About to Sleep
+C1178,245,4,386.59,2,2,2,About to Sleep
+C1179,228,7,557.01,3,4,3,Loyal Customers
+C1180,37,8,974.76,5,4,4,Champions
+C1181,8,12,2185.01,5,5,5,Champions
+C1182,281,5,452.27,2,3,2,At Risk
+C1183,308,2,171.27,1,1,1,Lost
+C1184,6,12,1620.8600000000001,5,5,5,Champions
+C1185,302,7,722.39,1,4,3,Loyal Customers
+C1186,248,7,663.0,2,4,3,Loyal Customers
+C1187,331,1,44.36,1,1,1,Lost
+C1188,129,3,156.07999999999998,4,2,1,Potential Loyalists
+C1189,10,11,1446.98,5,5,5,Champions
+C1190,16,9,1482.11,5,5,5,Champions
+C1191,4,5,1095.01,5,3,4,Potential Loyalists
+C1192,208,7,837.64,3,4,4,Loyal Customers
+C1193,139,4,362.44,4,2,2,Potential Loyalists
+C1194,135,9,846.3,4,5,4,Champions
+C1195,18,6,838.6800000000001,5,4,4,Champions
+C1196,11,8,1762.31,5,4,5,Champions
+C1197,130,4,366.72,4,2,2,Potential Loyalists
+C1198,6,11,1608.62,5,5,5,Champions
+C1199,15,6,700.8,5,4,3,Champions
+C1200,346,1,186.02,1,1,1,Lost
+C1201,301,3,494.12,1,2,3,About to Sleep
+C1202,53,15,1687.72,4,5,5,Champions
+C1203,258,2,107.42,2,1,1,Lost
+C1204,165,4,484.92999999999995,3,2,2,Regular Customers
+C1205,226,3,403.26,3,2,2,Regular Customers
+C1206,232,5,657.4100000000001,2,3,3,At Risk
+C1207,72,4,383.92,4,2,2,Potential Loyalists
+C1208,288,4,350.22,1,2,2,About to Sleep
+C1209,188,7,1498.5700000000002,3,4,5,Loyal Customers
+C1210,53,6,712.72,4,4,3,Champions
+C1211,218,1,46.91,3,1,1,Regular Customers
+C1212,188,7,1777.37,3,4,5,Loyal Customers
+C1213,19,10,1238.85,5,5,5,Champions
+C1214,5,14,1526.33,5,5,5,Champions
+C1215,116,3,367.40999999999997,4,2,2,Potential Loyalists
+C1216,314,4,470.96999999999997,1,2,2,About to Sleep
+C1217,188,4,505.94,3,2,3,Regular Customers
+C1218,358,2,241.01,1,1,1,Lost
+C1219,244,6,736.96,2,4,4,Loyal Customers
+C1220,23,13,1651.94,5,5,5,Champions
+C1221,164,9,809.14,3,5,4,Loyal Customers
+C1222,20,5,629.26,5,3,3,Potential Loyalists
+C1223,198,5,464.1,3,3,2,Regular Customers
+C1224,168,4,298.34000000000003,3,2,2,Regular Customers
+C1225,261,9,1148.3500000000001,2,5,5,Loyal Customers
+C1226,170,1,62.66,3,1,1,Regular Customers
+C1227,226,6,911.48,3,4,4,Loyal Customers
+C1228,260,5,433.44,2,3,2,At Risk
+C1229,287,1,178.57,2,1,1,Lost
+C1230,195,4,218.69,3,2,1,Regular Customers
+C1231,84,6,704.41,4,4,3,Champions
+C1232,218,8,636.63,3,4,3,Loyal Customers
+C1233,222,6,631.95,3,4,3,Loyal Customers
+C1234,118,6,630.88,4,4,3,Champions
+C1235,22,8,1240.64,5,4,5,Champions
+C1236,9,4,531.25,5,2,3,Potential Loyalists
+C1237,193,8,817.76,3,4,4,Loyal Customers
+C1238,140,7,693.9200000000001,4,4,3,Champions
+C1239,182,1,117.09,3,1,1,Regular Customers
+C1240,146,8,880.87,4,4,4,Champions
+C1241,237,5,497.33,2,3,3,At Risk
+C1242,206,5,756.87,3,3,4,Regular Customers
+C1243,306,1,108.07,1,1,1,Lost
+C1244,284,8,1186.48,2,4,5,Loyal Customers
+C1245,141,4,382.69,4,2,2,Potential Loyalists
+C1246,251,1,37.19,2,1,1,Lost
+C1247,313,8,903.7199999999999,1,4,4,Loyal Customers
+C1248,255,2,86.75,2,1,1,Lost
+C1249,188,5,556.25,3,3,3,Regular Customers
+C1250,192,3,343.8,3,2,2,Regular Customers
+C1251,167,7,805.45,3,4,4,Loyal Customers
+C1252,285,3,504.3,2,2,3,About to Sleep
+C1253,280,4,535.24,2,2,3,About to Sleep
+C1254,292,1,59.12,1,1,1,Lost
+C1255,242,2,183.09,2,1,1,Lost
+C1256,265,4,385.6,2,2,2,About to Sleep
+C1257,67,9,1501.31,4,5,5,Champions
+C1258,281,2,96.53999999999999,2,1,1,Lost
+C1259,264,7,626.5,2,4,3,Loyal Customers
+C1260,120,6,1385.21,4,4,5,Champions
+C1261,303,3,451.22,1,2,2,About to Sleep
+C1262,285,3,539.25,2,2,3,About to Sleep
+C1263,139,3,584.4200000000001,4,2,3,Potential Loyalists
+C1264,9,8,912.3,5,4,4,Champions
+C1265,314,7,638.27,1,4,3,Loyal Customers
+C1266,310,3,494.12,1,2,3,About to Sleep
+C1267,310,4,489.26,1,2,2,About to Sleep
+C1268,114,4,485.28000000000003,4,2,2,Potential Loyalists
+C1269,166,3,309.71999999999997,3,2,2,Regular Customers
+C1270,8,7,972.01,5,4,4,Champions
+C1271,252,3,287.1,2,2,2,About to Sleep
+C1272,41,4,356.91999999999996,5,2,2,Potential Loyalists
+C1273,101,5,796.0699999999999,4,3,4,Potential Loyalists
+C1274,27,15,3075.2599999999998,5,5,5,Champions
+C1275,354,1,59.69,1,1,1,Lost
+C1276,85,9,1013.15,4,5,4,Champions
+C1277,260,8,2003.57,2,4,5,Loyal Customers
+C1278,321,2,337.13,1,1,2,Lost
+C1279,205,5,437.41,3,3,2,Regular Customers
+C1280,312,9,1677.01,1,5,5,Loyal Customers
+C1281,127,5,441.1,4,3,2,Potential Loyalists
+C1282,281,3,468.93,2,2,2,About to Sleep
+C1283,12,8,1451.3,5,4,5,Champions
+C1284,281,6,879.3100000000001,2,4,4,Loyal Customers
+C1285,52,9,986.09,4,5,4,Champions
+C1286,68,12,1321.47,4,5,5,Champions
+C1287,255,7,985.97,2,4,4,Loyal Customers
+C1288,253,3,226.35,2,2,1,About to Sleep
+C1289,4,4,259.73,5,2,1,Potential Loyalists
+C1290,260,5,489.65999999999997,2,3,2,At Risk
+C1291,292,1,174.48,1,1,1,Lost
+C1292,329,1,80.63,1,1,1,Lost
+C1293,91,4,548.31,4,2,3,Potential Loyalists
+C1294,211,3,387.95,3,2,2,Regular Customers
+C1295,127,5,662.25,4,3,3,Potential Loyalists
+C1296,251,4,384.73,2,2,2,About to Sleep
+C1297,11,8,3618.64,5,4,5,Champions
+C1298,228,1,67.32,3,1,1,Regular Customers
+C1299,266,7,749.5600000000001,2,4,4,Loyal Customers
+C1300,4,14,2487.56,5,5,5,Champions
+C1301,286,3,381.99,2,2,2,About to Sleep
+C1302,166,3,275.94,3,2,2,Regular Customers
+C1303,326,5,299.05,1,3,2,At Risk
+C1304,266,3,1091.67,2,2,4,About to Sleep
+C1305,289,6,640.97,1,4,3,Loyal Customers
+C1306,101,4,242.42,4,2,1,Potential Loyalists
+C1307,274,5,617.99,2,3,3,At Risk
+C1308,301,2,187.97,1,1,1,Lost
+C1309,227,3,166.06,3,2,1,Regular Customers
+C1310,259,3,276.61,2,2,2,About to Sleep
+C1311,44,14,2299.19,4,5,5,Champions
+C1312,235,6,494.98,2,4,3,Loyal Customers
+C1313,347,1,60.11,1,1,1,Lost
+C1314,22,11,1754.73,5,5,5,Champions
+C1315,211,5,557.6,3,3,3,Regular Customers
+C1316,331,2,75.69,1,1,1,Lost
+C1317,280,4,172.03,2,2,1,About to Sleep
+C1318,279,5,466.74,2,3,2,At Risk
+C1319,35,9,1832.6699999999998,5,5,5,Champions
+C1320,289,4,704.19,1,2,3,About to Sleep
+C1321,22,4,352.62,5,2,2,Potential Loyalists
+C1322,97,7,800.38,4,4,4,Champions
+C1323,198,2,142.71,3,1,1,Regular Customers
+C1324,5,7,618.89,5,4,3,Champions
+C1325,5,8,533.78,5,4,3,Champions
+C1326,207,3,685.88,3,2,3,Regular Customers
+C1327,20,14,1557.3899999999999,5,5,5,Champions
+C1328,29,8,1265.07,5,4,5,Champions
+C1329,221,6,818.47,3,4,4,Loyal Customers
+C1330,20,9,1902.89,5,5,5,Champions
+C1331,15,8,1211.18,5,4,5,Champions
+C1332,290,2,123.53,1,1,1,Lost
+C1333,332,1,39.43,1,1,1,Lost
+C1334,318,1,206.64,1,1,1,Lost
+C1335,28,14,2315.48,5,5,5,Champions
+C1336,243,4,952.3,2,2,4,About to Sleep
+C1337,291,2,182.82,1,1,1,Lost
+C1338,318,1,172.94,1,1,1,Lost
+C1339,161,9,1031.32,4,5,4,Champions
+C1340,16,7,601.64,5,4,3,Champions
+C1341,115,4,406.68,4,2,2,Potential Loyalists
+C1342,69,5,1529.51,4,3,5,Potential Loyalists
+C1343,24,8,852.88,5,4,4,Champions
+C1344,91,6,367.15,4,4,2,Champions
+C1345,222,5,728.57,3,3,3,Regular Customers
+C1346,43,6,893.14,5,4,4,Champions
+C1347,280,5,726.51,2,3,3,At Risk
+C1348,226,2,120.85,3,1,1,Regular Customers
+C1349,52,3,259.15,4,2,1,Potential Loyalists
+C1350,19,14,1951.84,5,5,5,Champions
+C1351,193,4,965.01,3,2,4,Regular Customers
+C1352,274,2,307.61,2,1,2,Lost
+C1353,172,7,555.94,3,4,3,Loyal Customers
+C1354,28,10,1474.34,5,5,5,Champions
+C1355,357,2,300.73,1,1,2,Lost
+C1356,255,1,129.32,2,1,1,Lost
+C1357,37,16,1826.88,5,5,5,Champions
+C1358,218,9,861.33,3,5,4,Loyal Customers
+C1359,232,4,528.76,2,2,3,About to Sleep
+C1360,4,16,2475.15,5,5,5,Champions
+C1361,41,7,829.8399999999999,5,4,4,Champions
+C1362,17,7,970.39,5,4,4,Champions
+C1363,46,8,1267.13,4,4,5,Champions
+C1364,143,5,705.69,4,3,3,Potential Loyalists
+C1365,134,6,703.16,4,4,3,Champions
+C1366,59,7,1420.6100000000001,4,4,5,Champions
+C1367,252,6,735.52,2,4,4,Loyal Customers
+C1368,142,8,633.8199999999999,4,4,3,Champions
+C1369,36,13,1786.54,5,5,5,Champions
+C1370,14,6,625.95,5,4,3,Champions
+C1371,17,7,729.98,5,4,3,Champions
+C1372,117,5,748.64,4,3,4,Potential Loyalists
+C1373,314,6,783.8,1,4,4,Loyal Customers
+C1374,40,6,1069.11,5,4,4,Champions
+C1375,190,5,550.79,3,3,3,Regular Customers
+C1376,258,2,265.48,2,1,1,Lost
+C1377,267,2,89.82,2,1,1,Lost
+C1378,315,10,1336.6100000000001,1,5,5,Loyal Customers
+C1379,57,8,730.8299999999999,4,4,3,Champions
+C1380,232,6,701.6899999999999,2,4,3,Loyal Customers
+C1381,296,3,149.07,1,2,1,About to Sleep
+C1382,245,7,835.07,2,4,4,Loyal Customers
+C1383,15,11,1211.29,5,5,5,Champions
+C1384,161,2,288.72,4,1,2,New Customers
+C1385,26,13,2215.49,5,5,5,Champions
+C1386,316,10,1555.39,1,5,5,Loyal Customers
+C1387,48,11,1108.24,4,5,4,Champions
+C1388,142,6,879.88,4,4,4,Champions
+C1389,14,7,725.18,5,4,3,Champions
+C1390,7,6,585.45,5,4,3,Champions
+C1391,263,3,527.3199999999999,2,2,3,About to Sleep
+C1392,253,3,536.24,2,2,3,About to Sleep
+C1393,8,9,1404.44,5,5,5,Champions
+C1394,22,10,1226.75,5,5,5,Champions
+C1395,273,5,797.7,2,3,4,At Risk
+C1396,311,3,409.71,1,2,2,About to Sleep
+C1397,310,7,781.78,1,4,4,Loyal Customers
+C1398,308,5,257.15999999999997,1,3,1,At Risk
+C1399,67,7,640.74,4,4,3,Champions
+C1400,74,8,1205.26,4,4,5,Champions
+C1401,30,7,399.0,5,4,2,Champions
+C1402,221,6,456.14,3,4,2,Loyal Customers
+C1403,111,8,641.74,4,4,3,Champions
+C1404,317,2,225.88,1,1,1,Lost
+C1405,258,5,258.01,2,3,1,At Risk
+C1406,191,9,2119.62,3,5,5,Loyal Customers
+C1407,8,13,2511.09,5,5,5,Champions
+C1408,197,4,457.86,3,2,2,Regular Customers
+C1409,10,7,1250.43,5,4,5,Champions
+C1410,69,11,1285.54,4,5,5,Champions
+C1411,310,7,475.25,1,4,2,Loyal Customers
+C1412,192,5,972.77,3,3,4,Regular Customers
+C1413,221,3,641.28,3,2,3,Regular Customers
+C1414,303,7,567.23,1,4,3,Loyal Customers
+C1415,4,5,1170.38,5,3,5,Potential Loyalists
+C1416,48,8,1768.1200000000001,4,4,5,Champions
+C1417,311,3,346.29,1,2,2,About to Sleep
+C1418,302,3,411.55,1,2,2,About to Sleep
+C1419,10,6,511.86,5,4,3,Champions
+C1420,211,7,699.56,3,4,3,Loyal Customers
+C1421,254,4,632.4300000000001,2,2,3,About to Sleep
+C1422,164,4,352.23,3,2,2,Regular Customers
+C1423,308,11,1536.76,1,5,5,Loyal Customers
+C1424,220,7,732.34,3,4,3,Loyal Customers
+C1425,249,7,1027.69,2,4,4,Loyal Customers
+C1426,183,1,188.84,3,1,1,Regular Customers
+C1427,312,4,332.49,1,2,2,About to Sleep
+C1428,330,1,155.0,1,1,1,Lost
+C1429,285,6,1356.23,2,4,5,Loyal Customers
+C1430,266,5,569.67,2,3,3,At Risk
+C1431,18,11,2425.43,5,5,5,Champions
+C1432,163,5,792.9799999999999,3,3,4,Regular Customers
+C1433,68,4,596.71,4,2,3,Potential Loyalists
+C1434,11,5,590.27,5,3,3,Potential Loyalists
+C1435,320,1,78.61,1,1,1,Lost
+C1436,292,3,100.71000000000001,1,2,1,About to Sleep
+C1437,224,3,197.13,3,2,1,Regular Customers
+C1438,188,4,694.51,3,2,3,Regular Customers
+C1439,299,2,203.94,1,1,1,Lost
+C1440,58,7,667.82,4,4,3,Champions
+C1441,261,1,75.33,2,1,1,Lost
+C1442,120,3,414.91,4,2,2,Potential Loyalists
+C1443,140,8,840.4599999999999,4,4,4,Champions
+C1444,50,6,1014.83,4,4,4,Champions
+C1445,108,5,666.9,4,3,3,Potential Loyalists
+C1446,14,10,1447.8,5,5,5,Champions
+C1447,17,16,3079.33,5,5,5,Champions
+C1448,106,5,589.4300000000001,4,3,3,Potential Loyalists
+C1449,228,6,734.23,3,4,4,Loyal Customers
+C1450,279,10,1019.34,2,5,4,Loyal Customers
+C1451,13,8,2268.96,5,4,5,Champions
+C1452,9,10,1352.32,5,5,5,Champions
+C1453,347,4,396.03,1,2,2,About to Sleep
+C1454,70,5,732.76,4,3,3,Potential Loyalists
+C1455,179,4,312.8,3,2,2,Regular Customers
+C1456,321,4,480.79999999999995,1,2,2,About to Sleep
+C1457,309,8,1155.01,1,4,5,Loyal Customers
+C1458,318,7,689.65,1,4,3,Loyal Customers
+C1459,132,5,533.4,4,3,3,Potential Loyalists
+C1460,95,3,276.61,4,2,2,Potential Loyalists
+C1461,314,1,40.63,1,1,1,Lost
+C1462,318,7,594.09,1,4,3,Loyal Customers
+C1463,9,6,322.03,5,4,2,Champions
+C1464,41,9,1943.5800000000002,5,5,5,Champions
+C1465,219,4,685.25,3,2,3,Regular Customers
+C1466,283,5,257.49,2,3,1,At Risk
+C1467,16,4,467.69,5,2,2,Potential Loyalists
+C1468,309,5,510.94,1,3,3,At Risk
+C1469,12,19,2741.98,5,5,5,Champions
+C1470,4,5,535.4,5,3,3,Potential Loyalists
+C1471,166,8,764.21,3,4,4,Loyal Customers
+C1472,4,8,892.5,5,4,4,Champions
+C1473,317,4,151.32,1,2,1,About to Sleep
+C1474,81,6,865.97,4,4,4,Champions
+C1475,14,12,1312.2,5,5,5,Champions
+C1476,296,3,268.99,1,2,1,About to Sleep
+C1477,251,5,583.33,2,3,3,At Risk
+C1478,9,4,458.88,5,2,2,Potential Loyalists
+C1479,166,10,1597.38,3,5,5,Loyal Customers
+C1480,286,3,284.78999999999996,2,2,2,About to Sleep
+C1481,28,10,2309.3,5,5,5,Champions
+C1482,230,4,184.52,3,2,1,Regular Customers
+C1483,148,2,82.59,4,1,1,New Customers
+C1484,17,12,1346.44,5,5,5,Champions
+C1485,324,1,61.08,1,1,1,Lost
+C1486,13,12,2745.3199999999997,5,5,5,Champions
+C1487,279,6,1050.35,2,4,4,Loyal Customers
+C1488,238,4,655.49,2,2,3,About to Sleep
+C1489,210,4,299.92,3,2,2,Regular Customers
+C1490,205,5,550.55,3,3,3,Regular Customers
+C1491,10,9,844.13,5,5,4,Champions
+C1492,10,8,1618.9099999999999,5,4,5,Champions
+C1493,189,8,946.93,3,4,4,Loyal Customers
+C1494,287,3,407.06,2,2,2,About to Sleep
+C1495,284,6,566.63,2,4,3,Loyal Customers
+C1496,178,2,68.65,3,1,1,Regular Customers
+C1497,39,7,1959.73,5,4,5,Champions
+C1498,301,2,214.64000000000001,1,1,1,Lost
+C1499,310,4,622.41,1,2,3,About to Sleep
+C1500,22,8,1170.83,5,4,5,Champions
+C1501,285,7,1093.92,2,4,4,Loyal Customers
+C1502,280,5,304.71,2,3,2,At Risk
+C1503,254,3,94.21,2,2,1,About to Sleep
+C1504,335,1,241.16,1,1,1,Lost
+C1505,253,4,211.16,2,2,1,About to Sleep
+C1506,309,2,387.6,1,1,2,Lost
+C1507,269,4,312.36,2,2,2,About to Sleep
+C1508,47,7,1385.48,4,4,5,Champions
+C1509,49,4,587.76,4,2,3,Potential Loyalists
+C1510,285,4,535.6,2,2,3,About to Sleep
+C1511,127,3,574.6300000000001,4,2,3,Potential Loyalists
+C1512,42,5,1525.92,5,3,5,Potential Loyalists
+C1513,173,5,606.17,3,3,3,Regular Customers
+C1514,210,3,246.48000000000002,3,2,1,Regular Customers
+C1515,226,3,211.05,3,2,1,Regular Customers
+C1516,103,6,466.22,4,4,2,Champions
+C1517,348,1,183.74,1,1,1,Lost
+C1518,22,10,1866.25,5,5,5,Champions
+C1519,36,7,830.58,5,4,4,Champions
+C1520,17,7,1019.98,5,4,4,Champions
+C1521,300,3,477.64,1,2,2,About to Sleep
+C1522,254,2,128.98,2,1,1,Lost
+C1523,11,14,2200.1800000000003,5,5,5,Champions
+C1524,293,1,129.35,1,1,1,Lost
+C1525,81,8,1003.95,4,4,4,Champions
+C1526,288,5,1388.58,1,3,5,At Risk
+C1527,244,7,1158.0,2,4,5,Loyal Customers
+C1528,191,1,68.78,3,1,1,Regular Customers
+C1529,167,7,942.13,3,4,4,Loyal Customers
+C1530,49,4,268.79,4,2,1,Potential Loyalists
+C1531,244,4,444.36,2,2,2,About to Sleep
+C1532,148,3,226.76,4,2,1,Potential Loyalists
+C1533,313,5,570.11,1,3,3,At Risk
+C1534,9,14,2845.7,5,5,5,Champions
+C1535,210,4,373.44,3,2,2,Regular Customers
+C1536,262,2,398.53999999999996,2,1,2,Lost
+C1537,309,6,328.93,1,4,2,Loyal Customers
+C1538,26,8,1852.2499999999998,5,4,5,Champions
+C1539,39,6,727.8299999999999,5,4,3,Champions
+C1540,256,5,792.98,2,3,4,At Risk
+C1541,167,5,1142.65,3,3,5,Regular Customers
+C1542,222,6,724.52,3,4,3,Loyal Customers
+C1543,46,12,2398.54,4,5,5,Champions
+C1544,232,2,192.98000000000002,2,1,1,Lost
+C1545,11,7,809.85,5,4,4,Champions
+C1546,193,5,1198.39,3,3,5,Regular Customers
+C1547,188,5,697.75,3,3,3,Regular Customers
+C1548,221,9,1182.88,3,5,5,Loyal Customers
+C1549,13,6,1211.9,5,4,5,Champions
+C1550,280,3,153.78,2,2,1,About to Sleep
+C1551,99,7,1340.6599999999999,4,4,5,Champions
+C1552,257,10,1267.8799999999999,2,5,5,Loyal Customers
+C1553,330,5,535.7,1,3,3,At Risk
+C1554,340,3,269.05,1,2,1,About to Sleep
+C1555,23,8,970.47,5,4,4,Champions
+C1556,321,3,201.47,1,2,1,About to Sleep
+C1557,30,5,538.47,5,3,3,Potential Loyalists
+C1558,90,7,957.21,4,4,4,Champions
+C1559,6,10,1105.91,5,5,4,Champions
+C1560,212,6,881.22,3,4,4,Loyal Customers
+C1561,203,5,440.7,3,3,2,Regular Customers
+C1562,263,3,413.98,2,2,2,About to Sleep
+C1563,257,2,388.92999999999995,2,1,2,Lost
+C1564,264,3,136.0,2,2,1,About to Sleep
+C1565,233,4,427.36,2,2,2,About to Sleep
+C1566,8,8,2262.01,5,4,5,Champions
+C1567,265,3,351.92,2,2,2,About to Sleep
+C1568,8,9,1106.5500000000002,5,5,4,Champions
+C1569,260,9,995.42,2,5,4,Loyal Customers
+C1570,199,7,898.47,3,4,4,Loyal Customers
+C1571,145,7,982.8,4,4,4,Champions
+C1572,149,7,583.63,4,4,3,Champions
+C1573,358,1,130.77,1,1,1,Lost
+C1574,17,5,545.58,5,3,3,Potential Loyalists
+C1575,55,5,471.12,4,3,2,Potential Loyalists
+C1576,302,3,293.93,1,2,2,About to Sleep
+C1577,280,4,413.07,2,2,2,About to Sleep
+C1578,311,2,100.44,1,1,1,Lost
+C1579,4,6,557.38,5,4,3,Champions
+C1580,10,8,1454.37,5,4,5,Champions
+C1581,31,7,777.8,5,4,4,Champions
+C1582,8,12,1842.68,5,5,5,Champions
+C1583,42,10,1074.6100000000001,5,5,4,Champions
+C1584,25,9,2012.87,5,5,5,Champions
+C1585,41,7,946.19,5,4,4,Champions
+C1586,110,3,423.38,4,2,2,Potential Loyalists
+C1587,8,13,1026.17,5,5,4,Champions
+C1588,83,2,788.75,4,1,4,New Customers
+C1589,224,8,1189.67,3,4,5,Loyal Customers
+C1590,225,4,510.85,3,2,3,Regular Customers
+C1591,191,7,1008.07,3,4,4,Loyal Customers
+C1592,44,4,634.34,4,2,3,Potential Loyalists
+C1593,97,9,1345.41,4,5,5,Champions
+C1594,4,15,2134.88,5,5,5,Champions
+C1595,300,3,400.22,1,2,2,About to Sleep
+C1596,114,11,1245.99,4,5,5,Champions
+C1597,197,4,718.8199999999999,3,2,3,Regular Customers
+C1598,312,2,157.41,1,1,1,Lost
+C1599,320,2,143.48000000000002,1,1,1,Lost
+C1600,348,2,427.97,1,1,2,Lost
+C1601,283,4,213.12,2,2,1,About to Sleep
+C1602,332,1,87.04,1,1,1,Lost
+C1603,210,7,1021.66,3,4,4,Loyal Customers
+C1604,6,16,3057.87,5,5,5,Champions
+C1605,327,3,246.11,1,2,1,About to Sleep
+C1606,175,3,170.94,3,2,1,Regular Customers
+C1607,16,12,1217.01,5,5,5,Champions
+C1608,65,8,1160.83,4,4,5,Champions
+C1609,37,11,1143.81,5,5,5,Champions
+C1610,7,5,320.97,5,3,2,Potential Loyalists
+C1611,23,6,590.0899999999999,5,4,3,Champions
+C1612,128,4,595.62,4,2,3,Potential Loyalists
+C1613,309,4,874.27,1,2,4,About to Sleep
+C1614,24,11,1310.26,5,5,5,Champions
+C1615,20,8,1189.92,5,4,5,Champions
+C1616,258,2,229.93,2,1,1,Lost
+C1617,54,10,1906.04,4,5,5,Champions
+C1618,322,8,657.59,1,4,3,Loyal Customers
+C1619,12,7,991.97,5,4,4,Champions
+C1620,279,3,355.13,2,2,2,About to Sleep
+C1621,16,16,3120.29,5,5,5,Champions
+C1622,209,3,403.40999999999997,3,2,2,Regular Customers
+C1623,103,5,413.42,4,3,2,Potential Loyalists
+C1624,30,7,911.84,5,4,4,Champions
+C1625,283,3,294.28,2,2,2,About to Sleep
+C1626,189,6,515.56,3,4,3,Loyal Customers
+C1627,95,8,655.5799999999999,4,4,3,Champions
+C1628,181,2,291.8,3,1,2,Regular Customers
+C1629,209,2,307.32,3,1,2,Regular Customers
+C1630,13,6,605.9200000000001,5,4,3,Champions
+C1631,316,8,1152.27,1,4,5,Loyal Customers
+C1632,293,2,234.61,1,1,1,Lost
+C1633,259,4,902.5,2,2,4,About to Sleep
+C1634,241,1,48.1,2,1,1,Lost
+C1635,82,8,1371.36,4,4,5,Champions
+C1636,194,1,68.52,3,1,1,Regular Customers
+C1637,209,3,129.57,3,2,1,Regular Customers
+C1638,162,3,457.34,3,2,2,Regular Customers
+C1639,181,1,139.97,3,1,1,Regular Customers
+C1640,167,8,1246.75,3,4,5,Loyal Customers
+C1641,238,4,517.42,2,2,3,About to Sleep
+C1642,254,1,25.68,2,1,1,Lost
+C1643,9,5,897.3399999999999,5,3,4,Potential Loyalists
+C1644,261,5,346.96999999999997,2,3,2,At Risk
+C1645,220,4,290.77,3,2,2,Regular Customers
+C1646,59,6,1323.62,4,4,5,Champions
+C1647,136,2,116.65,4,1,1,New Customers
+C1648,7,10,1501.18,5,5,5,Champions
+C1649,333,1,44.56,1,1,1,Lost
+C1650,320,4,756.9200000000001,1,2,4,About to Sleep
+C1651,331,7,790.72,1,4,4,Loyal Customers
+C1652,252,5,493.78,2,3,3,At Risk
+C1653,308,5,341.77000000000004,1,3,2,At Risk
+C1654,198,3,460.47,3,2,2,Regular Customers
+C1655,17,7,1319.88,5,4,5,Champions
+C1656,210,4,295.21,3,2,2,Regular Customers
+C1657,162,6,789.97,3,4,4,Loyal Customers
+C1658,308,10,1951.7,1,5,5,Loyal Customers
+C1659,238,4,450.18999999999994,2,2,2,About to Sleep
+C1660,6,14,2513.63,5,5,5,Champions
+C1661,163,10,1178.46,3,5,5,Loyal Customers
+C1662,239,4,408.87,2,2,2,About to Sleep
+C1663,211,4,969.74,3,2,4,Regular Customers
+C1664,232,13,1594.82,2,5,5,Loyal Customers
+C1665,273,4,323.95,2,2,2,About to Sleep
+C1666,140,6,741.77,4,4,4,Champions
+C1667,310,5,1082.67,1,3,4,At Risk
+C1668,288,4,404.11,1,2,2,About to Sleep
+C1669,353,2,180.15,1,1,1,Lost
+C1670,258,1,173.16,2,1,1,Lost
+C1671,309,5,1003.7399999999999,1,3,4,At Risk
+C1672,49,6,765.21,4,4,4,Champions
+C1673,198,3,154.27,3,2,1,Regular Customers
+C1674,14,9,1630.82,5,5,5,Champions
+C1675,218,5,523.91,3,3,3,Regular Customers
+C1676,242,3,235.07999999999998,2,2,1,About to Sleep
+C1677,51,7,823.15,4,4,4,Champions
+C1678,13,11,1478.2,5,5,5,Champions
+C1679,271,3,432.53999999999996,2,2,2,About to Sleep
+C1680,242,6,883.49,2,4,4,Loyal Customers
+C1681,226,7,429.59000000000003,3,4,2,Loyal Customers
+C1682,143,2,165.71,4,1,1,New Customers
+C1683,20,9,1179.44,5,5,5,Champions
+C1684,57,10,1658.6399999999999,4,5,5,Champions
+C1685,18,8,849.13,5,4,4,Champions
+C1686,4,11,1377.72,5,5,5,Champions
+C1687,164,7,1033.57,3,4,4,Loyal Customers
+C1688,308,2,220.96,1,1,1,Lost
+C1689,264,4,383.19,2,2,2,About to Sleep
+C1690,289,9,885.85,1,5,4,Loyal Customers
+C1691,193,4,618.14,3,2,3,Regular Customers
+C1692,227,5,522.32,3,3,3,Regular Customers
+C1693,259,1,280.97,2,1,2,Lost
+C1694,193,6,472.42,3,4,2,Loyal Customers
+C1695,233,8,831.72,2,4,4,Loyal Customers
+C1696,189,4,276.52,3,2,2,Regular Customers
+C1697,264,7,1012.3199999999999,2,4,4,Loyal Customers
+C1698,35,7,652.6800000000001,5,4,3,Champions
+C1699,45,9,1411.85,4,5,5,Champions
+C1700,366,1,138.21,1,1,1,Lost
+C1701,132,4,743.0,4,2,4,Potential Loyalists
+C1702,311,5,530.55,1,3,3,At Risk
+C1703,34,8,1010.44,5,4,4,Champions
+C1704,171,3,218.09,3,2,1,Regular Customers
+C1705,56,10,1093.5,4,5,4,Champions
+C1706,283,2,156.37,2,1,1,Lost
+C1707,320,6,986.08,1,4,4,Loyal Customers
+C1708,43,8,1332.87,5,4,5,Champions
+C1709,159,5,716.86,4,3,3,Potential Loyalists
+C1710,177,7,812.4300000000001,3,4,4,Loyal Customers
+C1711,319,2,152.0,1,1,1,Lost
+C1712,157,4,293.57,4,2,2,Potential Loyalists
+C1713,208,3,423.67,3,2,2,Regular Customers
+C1714,305,1,81.71,1,1,1,Lost
+C1715,67,5,440.27,4,3,2,Potential Loyalists
+C1716,332,1,48.19,1,1,1,Lost
+C1717,261,5,908.3,2,3,4,At Risk
+C1718,289,4,385.92,1,2,2,About to Sleep
+C1719,265,8,489.4,2,4,2,Loyal Customers
+C1720,164,3,289.13,3,2,2,Regular Customers
+C1721,196,5,376.15,3,3,2,Regular Customers
+C1722,309,5,446.82,1,3,2,At Risk
+C1723,364,1,129.17,1,1,1,Lost
+C1724,311,5,480.36,1,3,2,At Risk
+C1725,286,5,702.08,2,3,3,At Risk
+C1726,275,1,31.84,2,1,1,Lost
+C1727,13,8,1121.69,5,4,4,Champions
+C1728,41,7,580.97,5,4,3,Champions
+C1729,9,4,549.69,5,2,3,Potential Loyalists
+C1730,323,2,90.02,1,1,1,Lost
+C1731,25,15,3089.31,5,5,5,Champions
+C1732,13,11,1363.51,5,5,5,Champions
+C1733,9,9,1104.27,5,5,4,Champions
+C1734,285,7,403.68,2,4,2,Loyal Customers
+C1735,7,10,1672.81,5,5,5,Champions
+C1736,6,5,427.46000000000004,5,3,2,Potential Loyalists
+C1737,200,2,262.65,3,1,1,Regular Customers
+C1738,285,2,138.38,2,1,1,Lost
+C1739,289,7,464.7,1,4,2,Loyal Customers
+C1740,12,9,1324.56,5,5,5,Champions
+C1741,280,3,336.35,2,2,2,About to Sleep
+C1742,332,2,170.31,1,1,1,Lost
+C1743,281,8,1056.69,2,4,4,Loyal Customers
+C1744,308,2,321.31,1,1,2,Lost
+C1745,34,8,498.47,5,4,3,Champions
+C1746,231,6,1043.06,3,4,4,Loyal Customers
+C1747,282,3,481.90999999999997,2,2,2,About to Sleep
+C1748,201,5,634.9300000000001,3,3,3,Regular Customers
+C1749,228,3,350.61,3,2,2,Regular Customers
+C1750,206,6,1163.56,3,4,5,Loyal Customers
+C1751,274,1,442.54,2,1,2,Lost
+C1752,197,2,413.32,3,1,2,Regular Customers
+C1753,73,9,1097.85,4,5,4,Champions
+C1754,48,4,285.93,4,2,2,Potential Loyalists
+C1755,96,10,1115.22,4,5,4,Champions
+C1756,162,3,182.06,3,2,1,Regular Customers
+C1757,258,3,478.19,2,2,2,About to Sleep
+C1758,250,4,350.01,2,2,2,About to Sleep
+C1759,161,2,252.81,4,1,1,New Customers
+C1760,232,2,389.62,2,1,2,Lost
+C1761,7,14,1881.41,5,5,5,Champions
+C1762,314,6,701.38,1,4,3,Loyal Customers
+C1763,319,4,998.7399999999999,1,2,4,About to Sleep
+C1764,210,8,1330.58,3,4,5,Loyal Customers
+C1765,168,3,161.78,3,2,1,Regular Customers
+C1766,27,10,1941.18,5,5,5,Champions
+C1767,229,2,208.56,3,1,1,Regular Customers
+C1768,256,3,345.69,2,2,2,About to Sleep
+C1769,22,7,1171.2,5,4,5,Champions
+C1770,31,8,894.43,5,4,4,Champions
+C1771,97,4,284.67,4,2,2,Potential Loyalists
+C1772,153,7,775.1999999999999,4,4,4,Champions
+C1773,283,3,276.39,2,2,2,About to Sleep
+C1774,344,5,705.06,1,3,3,At Risk
+C1775,241,1,100.0,2,1,1,Lost
+C1776,321,6,516.05,1,4,3,Loyal Customers
+C1777,30,7,1040.58,5,4,4,Champions
+C1778,222,8,636.44,3,4,3,Loyal Customers
+C1779,165,7,1072.83,3,4,4,Loyal Customers
+C1780,121,2,186.71,4,1,1,New Customers
+C1781,321,3,138.44,1,2,1,About to Sleep
+C1782,281,5,717.75,2,3,3,At Risk
+C1783,196,11,1427.3899999999999,3,5,5,Loyal Customers
+C1784,190,9,937.98,3,5,4,Loyal Customers
+C1785,23,9,2514.17,5,5,5,Champions
+C1786,294,2,435.6,1,1,2,Lost
+C1787,200,4,313.01,3,2,2,Regular Customers
+C1788,282,6,650.64,2,4,3,Loyal Customers
+C1789,11,9,1322.6,5,5,5,Champions
+C1790,243,2,146.63,2,1,1,Lost
+C1791,107,4,206.76999999999998,4,2,1,Potential Loyalists
+C1792,292,7,940.71,1,4,4,Loyal Customers
+C1793,111,3,239.36,4,2,1,Potential Loyalists
+C1794,340,1,327.73,1,1,2,Lost
+C1795,126,3,325.78000000000003,4,2,2,Potential Loyalists
+C1796,335,1,106.23,1,1,1,Lost
+C1797,134,5,386.82,4,3,2,Potential Loyalists
+C1798,271,6,818.4,2,4,4,Loyal Customers
+C1799,162,3,180.07,3,2,1,Regular Customers
+C1800,239,1,94.01,2,1,1,Lost
+C1801,362,1,114.91,1,1,1,Lost
+C1802,177,6,707.76,3,4,3,Loyal Customers
+C1803,21,8,735.07,5,4,4,Champions
+C1804,285,5,650.55,2,3,3,At Risk
+C1805,113,4,208.6,4,2,1,Potential Loyalists
+C1806,34,9,1309.63,5,5,5,Champions
+C1807,199,7,1580.8600000000001,3,4,5,Loyal Customers
+C1808,310,4,389.54999999999995,1,2,2,About to Sleep
+C1809,173,4,491.03999999999996,3,2,3,Regular Customers
+C1810,324,2,197.31,1,1,1,Lost
+C1811,308,3,468.76,1,2,2,About to Sleep
+C1812,267,1,238.72,2,1,1,Lost
+C1813,310,5,816.0,1,3,4,At Risk
+C1814,20,6,1548.31,5,4,5,Champions
+C1815,177,2,341.66999999999996,3,1,2,Regular Customers
+C1816,309,3,549.3399999999999,1,2,3,About to Sleep
+C1817,283,4,902.96,2,2,4,About to Sleep
+C1818,218,1,41.72,3,1,1,Regular Customers
+C1819,88,6,739.0999999999999,4,4,4,Champions
+C1820,79,9,1269.07,4,5,5,Champions
+C1821,199,1,57.2,3,1,1,Regular Customers
+C1822,16,7,898.9300000000001,5,4,4,Champions
+C1823,315,4,577.02,1,2,3,About to Sleep
+C1824,16,10,1226.24,5,5,5,Champions
+C1825,17,10,2148.2799999999997,5,5,5,Champions
+C1826,141,8,1178.0700000000002,4,4,5,Champions
+C1827,196,4,454.91,3,2,2,Regular Customers
+C1828,23,4,880.6,5,2,4,Potential Loyalists
+C1829,22,10,1533.3899999999999,5,5,5,Champions
+C1830,159,2,281.79999999999995,4,1,2,New Customers
+C1831,190,9,1756.45,3,5,5,Loyal Customers
+C1832,116,11,1370.4,4,5,5,Champions
+C1833,207,3,153.0,3,2,1,Regular Customers
+C1834,17,4,519.36,5,2,3,Potential Loyalists
+C1835,95,4,470.76,4,2,2,Potential Loyalists
+C1836,6,6,1320.71,5,4,5,Champions
+C1837,261,2,196.71,2,1,1,Lost
+C1838,259,1,47.98,2,1,1,Lost
+C1839,213,6,410.86,3,4,2,Loyal Customers
+C1840,161,6,521.32,4,4,3,Champions
+C1841,30,3,465.51,5,2,2,Potential Loyalists
+C1842,323,1,108.17,1,1,1,Lost
+C1843,137,7,1282.06,4,4,5,Champions
+C1844,58,7,901.19,4,4,4,Champions
+C1845,221,3,416.75,3,2,2,Regular Customers
+C1846,254,5,455.46000000000004,2,3,2,At Risk
+C1847,55,4,275.46000000000004,4,2,2,Potential Loyalists
+C1848,48,7,836.98,4,4,4,Champions
+C1849,271,2,144.2,2,1,1,Lost
+C1850,239,5,676.99,2,3,3,At Risk
+C1851,137,8,828.83,4,4,4,Champions
+C1852,240,5,1239.25,2,3,5,At Risk
+C1853,314,8,659.37,1,4,3,Loyal Customers
+C1854,140,5,692.47,4,3,3,Potential Loyalists
+C1855,210,3,209.64,3,2,1,Regular Customers
+C1856,224,6,1818.53,3,4,5,Loyal Customers
+C1857,282,2,206.43,2,1,1,Lost
+C1858,114,6,1509.4299999999998,4,4,5,Champions
+C1859,87,7,972.38,4,4,4,Champions
+C1860,190,8,1039.58,3,4,4,Loyal Customers
+C1861,20,13,1400.07,5,5,5,Champions
+C1862,252,2,271.6,2,1,1,Lost
+C1863,175,2,330.47,3,1,2,Regular Customers
+C1864,231,3,284.08000000000004,3,2,2,Regular Customers
+C1865,37,9,2147.25,5,5,5,Champions
+C1866,18,12,1495.33,5,5,5,Champions
+C1867,321,3,369.98,1,2,2,About to Sleep
+C1868,287,7,636.66,2,4,3,Loyal Customers
+C1869,197,8,1114.94,3,4,4,Loyal Customers
+C1870,243,6,632.41,2,4,3,Loyal Customers
+C1871,322,2,680.13,1,1,3,Lost
+C1872,19,17,2725.21,5,5,5,Champions
+C1873,321,4,244.93,1,2,1,About to Sleep
+C1874,139,6,609.03,4,4,3,Champions
+C1875,250,5,385.84000000000003,2,3,2,At Risk
+C1876,189,5,821.6600000000001,3,3,4,Regular Customers
+C1877,238,4,448.47,2,2,2,About to Sleep
+C1878,281,7,445.71999999999997,2,4,2,Loyal Customers
+C1879,228,8,823.82,3,4,4,Loyal Customers
+C1880,229,1,31.58,3,1,1,Regular Customers
+C1881,53,10,1180.17,4,5,5,Champions
+C1882,312,8,907.04,1,4,4,Loyal Customers
+C1883,203,5,1148.62,3,3,5,Regular Customers
+C1884,363,1,53.13,1,1,1,Lost
+C1885,221,5,416.32,3,3,2,Regular Customers
+C1886,187,6,1132.23,3,4,4,Loyal Customers
+C1887,237,4,1291.1599999999999,2,2,5,About to Sleep
+C1888,172,4,371.16999999999996,3,2,2,Regular Customers
+C1889,6,12,1668.75,5,5,5,Champions
+C1890,99,6,873.27,4,4,4,Champions
+C1891,226,5,1031.23,3,3,4,Regular Customers
+C1892,153,4,1156.44,4,2,5,Potential Loyalists
+C1893,36,8,1354.58,5,4,5,Champions
+C1894,58,15,2255.0299999999997,4,5,5,Champions
+C1895,176,1,155.88,3,1,1,Regular Customers
+C1896,237,5,343.44,2,3,2,At Risk
+C1897,147,3,469.99,4,2,2,Potential Loyalists
+C1898,25,5,1218.35,5,3,5,Potential Loyalists
+C1899,7,5,835.87,5,3,4,Potential Loyalists
+C1900,112,7,685.22,4,4,3,Champions
+C1901,248,2,109.82,2,1,1,Lost
+C1902,104,3,154.23,4,2,1,Potential Loyalists
+C1903,104,6,639.71,4,4,3,Champions
+C1904,4,14,2579.19,5,5,5,Champions
+C1905,206,7,1122.43,3,4,4,Loyal Customers
+C1906,18,11,1553.87,5,5,5,Champions
+C1907,57,8,903.1600000000001,4,4,4,Champions
+C1908,91,7,1135.25,4,4,4,Champions
+C1909,279,5,669.1,2,3,3,At Risk
+C1910,129,12,1806.0,4,5,5,Champions
+C1911,279,7,837.08,2,4,4,Loyal Customers
+C1912,10,13,2055.19,5,5,5,Champions
+C1913,172,6,683.19,3,4,3,Loyal Customers
+C1914,269,4,484.07,2,2,2,About to Sleep
+C1915,253,3,436.58000000000004,2,2,2,About to Sleep
+C1916,183,1,94.52,3,1,1,Regular Customers
+C1917,157,5,715.39,4,3,3,Potential Loyalists
+C1918,12,5,782.42,5,3,4,Potential Loyalists
+C1919,327,6,782.83,1,4,4,Loyal Customers
+C1920,24,12,1742.45,5,5,5,Champions
+C1921,321,7,841.23,1,4,4,Loyal Customers
+C1922,15,8,749.29,5,4,4,Champions
+C1923,292,5,538.9,1,3,3,At Risk
+C1924,103,4,379.48,4,2,2,Potential Loyalists
+C1925,137,5,1286.22,4,3,5,Potential Loyalists
+C1926,61,5,892.68,4,3,4,Potential Loyalists
+C1927,223,4,447.26,3,2,2,Regular Customers
+C1928,220,7,878.98,3,4,4,Loyal Customers
+C1929,98,5,902.7,4,3,4,Potential Loyalists
+C1930,147,6,454.65000000000003,4,4,2,Champions
+C1931,283,7,1042.41,2,4,4,Loyal Customers
+C1932,13,9,1591.8600000000001,5,5,5,Champions
+C1933,234,2,258.32,2,1,1,Lost
+C1934,147,8,793.73,4,4,4,Champions
+C1935,98,3,461.84999999999997,4,2,2,Potential Loyalists
+C1936,97,12,1655.46,4,5,5,Champions
+C1937,219,7,1393.56,3,4,5,Loyal Customers
+C1938,262,7,1161.1299999999999,2,4,5,Loyal Customers
+C1939,211,2,192.8,3,1,1,Regular Customers
+C1940,17,9,773.4300000000001,5,5,4,Champions
+C1941,239,4,215.88,2,2,1,About to Sleep
+C1942,362,2,230.95999999999998,1,1,1,Lost
+C1943,108,13,2057.26,4,5,5,Champions
+C1944,136,2,223.82999999999998,4,1,1,New Customers
+C1945,95,4,986.9100000000001,4,2,4,Potential Loyalists
+C1946,6,10,1996.6000000000001,5,5,5,Champions
+C1947,150,5,1391.67,4,3,5,Potential Loyalists
+C1948,55,9,1964.28,4,5,5,Champions
+C1949,335,5,728.66,1,3,3,At Risk
+C1950,314,4,608.15,1,2,3,About to Sleep
+C1951,292,3,267.19,1,2,1,About to Sleep
+C1952,42,5,740.36,5,3,4,Potential Loyalists
+C1953,281,7,705.88,2,4,3,Loyal Customers
+C1954,24,8,1690.27,5,4,5,Champions
+C1955,189,3,270.49,3,2,1,Regular Customers
+C1956,9,11,1234.9,5,5,5,Champions
+C1957,68,2,108.02,4,1,1,New Customers
+C1958,249,5,606.7,2,3,3,At Risk
+C1959,256,8,610.23,2,4,3,Loyal Customers
+C1960,26,11,2035.76,5,5,5,Champions
+C1961,4,9,1211.47,5,5,5,Champions
+C1962,309,6,550.26,1,4,3,Loyal Customers
+C1963,298,4,514.26,1,2,3,About to Sleep
+C1964,218,8,901.61,3,4,4,Loyal Customers
+C1965,149,11,1862.1999999999998,4,5,5,Champions
+C1966,318,3,318.74,1,2,2,About to Sleep
+C1967,226,6,502.57,3,4,3,Loyal Customers
+C1968,66,5,587.3299999999999,4,3,3,Potential Loyalists
+C1969,297,7,937.58,1,4,4,Loyal Customers
+C1970,118,6,607.26,4,4,3,Champions
+C1971,250,10,1020.56,2,5,4,Loyal Customers
+C1972,101,4,310.51,4,2,2,Potential Loyalists
+C1973,326,3,214.55,1,2,1,About to Sleep
+C1974,85,12,2220.98,4,5,5,Champions
+C1975,299,2,303.94,1,1,2,Lost
+C1976,74,6,684.76,4,4,3,Champions
+C1977,165,8,659.8199999999999,3,4,3,Loyal Customers
+C1978,104,3,390.51,4,2,2,Potential Loyalists
+C1979,128,7,873.59,4,4,4,Champions
+C1980,197,4,325.13,3,2,2,Regular Customers
+C1981,5,8,864.9100000000001,5,4,4,Champions
+C1982,106,9,723.7900000000001,4,5,3,Champions
+C1983,12,9,880.9,5,5,4,Champions
+C1984,272,2,138.14,2,1,1,Lost
+C1985,335,1,1023.12,1,1,4,Lost
+C1986,203,2,298.55,3,1,2,Regular Customers
+C1987,4,8,976.1600000000001,5,4,4,Champions
+C1988,157,8,578.45,4,4,3,Champions
+C1989,331,3,890.01,1,2,4,About to Sleep
+C1990,344,2,138.37,1,1,1,Lost
+C1991,263,3,321.68,2,2,2,About to Sleep
+C1992,285,4,791.72,2,2,4,About to Sleep
+C1993,264,2,73.44,2,1,1,Lost
+C1994,140,6,625.59,4,4,3,Champions
+C1995,102,4,532.79,4,2,3,Potential Loyalists
+C1996,310,7,623.86,1,4,3,Loyal Customers
+C1997,112,6,1186.67,4,4,5,Champions
+C1998,222,4,273.12,3,2,1,Regular Customers
+C1999,282,4,398.5,2,2,2,About to Sleep
+C2000,287,5,654.37,2,3,3,At Risk
+C2001,212,1,158.86,3,1,1,Regular Customers
+C2002,220,5,469.23,3,3,2,Regular Customers
+C2003,233,2,247.70999999999998,2,1,1,Lost
+C2004,364,1,14.38,1,1,1,Lost
+C2005,325,2,119.27,1,1,1,Lost
+C2006,237,3,631.4000000000001,2,2,3,About to Sleep
+C2007,110,5,510.38,4,3,3,Potential Loyalists
+C2008,328,3,492.06,1,2,3,About to Sleep
+C2009,54,8,1089.86,4,4,4,Champions
+C2010,308,6,748.29,1,4,4,Loyal Customers
+C2011,171,13,1633.7,3,5,5,Loyal Customers
+C2012,222,4,428.64,3,2,2,Regular Customers
+C2013,256,2,240.22,2,1,1,Lost
+C2014,237,1,65.53,2,1,1,Lost
+C2015,22,8,963.8699999999999,5,4,4,Champions
+C2016,271,3,244.06,2,2,1,About to Sleep
+C2017,284,6,444.96000000000004,2,4,2,Loyal Customers
+C2018,288,4,186.59,1,2,1,About to Sleep
+C2019,16,9,1276.98,5,5,5,Champions
+C2020,263,6,2010.3200000000002,2,4,5,Loyal Customers
+C2021,95,5,572.47,4,3,3,Potential Loyalists
+C2022,285,4,454.24,2,2,2,About to Sleep
+C2023,312,1,89.62,1,1,1,Lost
+C2024,28,4,505.19,5,2,3,Potential Loyalists
+C2025,311,4,406.0,1,2,2,About to Sleep
+C2026,98,6,383.95000000000005,4,4,2,Champions
+C2027,231,1,113.02,3,1,1,Regular Customers
+C2028,36,9,1022.1,5,5,4,Champions
+C2029,39,9,986.62,5,5,4,Champions
+C2030,346,1,129.44,1,1,1,Lost
+C2031,311,2,165.17000000000002,1,1,1,Lost
+C2032,282,3,214.24,2,2,1,About to Sleep
+C2033,145,4,805.69,4,2,4,Potential Loyalists
+C2034,310,2,179.19,1,1,1,Lost
+C2035,220,3,478.84000000000003,3,2,2,Regular Customers
+C2036,140,3,299.79999999999995,4,2,2,Potential Loyalists
+C2037,313,5,449.63,1,3,2,At Risk
+C2038,113,3,308.06,4,2,2,Potential Loyalists
+C2039,255,5,358.84,2,3,2,At Risk
+C2040,313,5,628.1,1,3,3,At Risk
+C2041,36,9,956.78,5,5,4,Champions
+C2042,159,2,73.53999999999999,4,1,1,New Customers
+C2043,54,6,668.19,4,4,3,Champions
+C2044,38,9,1765.48,5,5,5,Champions
+C2045,191,5,431.97,3,3,2,Regular Customers
+C2046,168,3,418.03,3,2,2,Regular Customers
+C2047,361,1,41.68,1,1,1,Lost
+C2048,304,7,1276.22,1,4,5,Loyal Customers
+C2049,129,4,289.95000000000005,4,2,2,Potential Loyalists
+C2050,288,7,727.64,1,4,3,Loyal Customers
+C2051,126,4,741.37,4,2,4,Potential Loyalists
+C2052,193,4,274.23,3,2,2,Regular Customers
+C2053,199,6,1084.98,3,4,4,Loyal Customers
+C2054,199,3,209.9,3,2,1,Regular Customers
+C2055,340,1,61.5,1,1,1,Lost
+C2056,309,8,1132.4099999999999,1,4,4,Loyal Customers
+C2057,35,5,853.71,5,3,4,Potential Loyalists
+C2058,197,1,181.18,3,1,1,Regular Customers
+C2059,105,4,496.37,4,2,3,Potential Loyalists
+C2060,335,4,233.31,1,2,1,About to Sleep
+C2061,240,9,1097.68,2,5,4,Loyal Customers
+C2062,21,10,1266.44,5,5,5,Champions
+C2063,308,9,677.24,1,5,3,Loyal Customers
+C2064,173,3,454.03,3,2,2,Regular Customers
+C2065,319,3,361.21000000000004,1,2,2,About to Sleep
+C2066,111,4,480.52000000000004,4,2,2,Potential Loyalists
+C2067,315,4,842.96,1,2,4,About to Sleep
+C2068,18,5,771.95,5,3,4,Potential Loyalists
+C2069,318,7,936.0699999999999,1,4,4,Loyal Customers
+C2070,187,6,1112.79,3,4,4,Loyal Customers
+C2071,248,10,1348.04,2,5,5,Loyal Customers
+C2072,14,11,1433.25,5,5,5,Champions
+C2073,257,4,422.57,2,2,2,About to Sleep
+C2074,235,3,579.22,2,2,3,About to Sleep
+C2075,316,2,133.24,1,1,1,Lost
+C2076,192,4,633.24,3,2,3,Regular Customers
+C2077,106,7,1139.76,4,4,5,Champions
+C2078,96,7,992.21,4,4,4,Champions
+C2079,12,3,191.62,5,2,1,Potential Loyalists
+C2080,56,6,790.74,4,4,4,Champions
+C2081,321,3,341.59000000000003,1,2,2,About to Sleep
+C2082,20,7,775.2,5,4,4,Champions
+C2083,284,10,1214.32,2,5,5,Loyal Customers
+C2084,159,3,562.24,4,2,3,Potential Loyalists
+C2085,317,4,580.5699999999999,1,2,3,About to Sleep
+C2086,252,2,328.42,2,1,2,Lost
+C2087,228,4,547.35,3,2,3,Regular Customers
+C2088,67,11,733.54,4,5,4,Champions
+C2089,279,4,688.72,2,2,3,About to Sleep
+C2090,295,5,510.99,1,3,3,At Risk
+C2091,5,14,1969.56,5,5,5,Champions
+C2092,297,1,8.1,1,1,1,Lost
+C2093,132,5,802.5899999999999,4,3,4,Potential Loyalists
+C2094,16,9,1147.38,5,5,5,Champions
+C2095,11,5,1579.39,5,3,5,Potential Loyalists
+C2096,197,2,599.09,3,1,3,Regular Customers
+C2097,353,1,94.42,1,1,1,Lost
+C2098,197,2,79.52,3,1,1,Regular Customers
+C2099,180,4,457.84000000000003,3,2,2,Regular Customers
+C2100,24,5,598.15,5,3,3,Potential Loyalists
+C2101,266,1,21.18,2,1,1,Lost
+C2102,330,4,494.12,1,2,3,About to Sleep
+C2103,296,1,123.32,1,1,1,Lost
+C2104,152,6,1021.5500000000001,4,4,4,Champions
+C2105,179,5,805.71,3,3,4,Regular Customers
+C2106,118,8,873.12,4,4,4,Champions
+C2107,84,12,1457.29,4,5,5,Champions
+C2108,263,1,17.34,2,1,1,Lost
+C2109,317,4,584.63,1,2,3,About to Sleep
+C2110,174,4,475.76,3,2,2,Regular Customers
+C2111,153,3,891.93,4,2,4,Potential Loyalists
+C2112,159,6,361.5,4,4,2,Champions
+C2113,225,6,1059.45,3,4,4,Loyal Customers
+C2114,91,7,705.56,4,4,3,Champions
+C2115,210,2,761.3900000000001,3,1,4,Regular Customers
+C2116,214,6,439.48,3,4,2,Loyal Customers
+C2117,288,2,844.54,1,1,4,Lost
+C2118,161,6,757.72,4,4,4,Champions
+C2119,195,4,355.26,3,2,2,Regular Customers
+C2120,228,7,710.2,3,4,3,Loyal Customers
+C2121,232,1,196.06,2,1,1,Lost
+C2122,98,1,49.57,4,1,1,New Customers
+C2123,294,3,322.35,1,2,2,About to Sleep
+C2124,38,9,1774.31,5,5,5,Champions
+C2125,14,9,1274.22,5,5,5,Champions
+C2126,200,4,561.44,3,2,3,Regular Customers
+C2127,16,6,792.62,5,4,4,Champions
+C2128,250,8,632.28,2,4,3,Loyal Customers
+C2129,28,4,683.99,5,2,3,Potential Loyalists
+C2130,229,4,153.41,3,2,1,Regular Customers
+C2131,45,11,1464.5,4,5,5,Champions
+C2132,286,7,644.24,2,4,3,Loyal Customers
+C2133,230,5,347.03,3,3,2,Regular Customers
+C2134,291,5,980.65,1,3,4,At Risk
+C2135,100,9,1060.04,4,5,4,Champions
+C2136,13,14,2352.3,5,5,5,Champions
+C2137,53,4,610.86,4,2,3,Potential Loyalists
+C2138,188,7,859.04,3,4,4,Loyal Customers
+C2139,284,4,326.64,2,2,2,About to Sleep
+C2140,320,1,103.94,1,1,1,Lost
+C2141,305,3,310.25,1,2,2,About to Sleep
+C2142,167,4,489.08,3,2,2,Regular Customers
+C2143,315,6,328.7,1,4,2,Loyal Customers
+C2144,166,4,374.47,3,2,2,Regular Customers
+C2145,169,6,459.91,3,4,2,Loyal Customers
+C2146,366,1,273.21,1,1,1,Lost
+C2147,24,9,1086.72,5,5,4,Champions
+C2148,311,5,759.5799999999999,1,3,4,At Risk
+C2149,279,8,700.67,2,4,3,Loyal Customers
+C2150,275,4,402.98,2,2,2,About to Sleep
+C2151,311,6,903.25,1,4,4,Loyal Customers
+C2152,343,1,22.97,1,1,1,Lost
+C2153,205,3,307.65999999999997,3,2,2,Regular Customers
+C2154,203,1,69.43,3,1,1,Regular Customers
+C2155,100,6,649.12,4,4,3,Champions
+C2156,209,1,37.86,3,1,1,Regular Customers
+C2157,270,9,1090.54,2,5,4,Loyal Customers
+C2158,138,4,728.74,4,2,3,Potential Loyalists
+C2159,194,4,256.5,3,2,1,Regular Customers
+C2160,266,2,203.45999999999998,2,1,1,Lost
+C2161,318,6,702.08,1,4,3,Loyal Customers
+C2162,219,5,631.1700000000001,3,3,3,Regular Customers
+C2163,184,5,314.46,3,3,2,Regular Customers
+C2164,45,5,743.32,4,3,4,Potential Loyalists
+C2165,249,4,986.05,2,2,4,About to Sleep
+C2166,280,7,654.57,2,4,3,Loyal Customers
+C2167,310,1,19.34,1,1,1,Lost
+C2168,167,6,459.72,3,4,2,Loyal Customers
+C2169,25,9,1066.6100000000001,5,5,4,Champions
+C2170,13,8,1059.1399999999999,5,4,4,Champions
+C2171,285,3,381.41,2,2,2,About to Sleep
+C2172,349,2,96.37,1,1,1,Lost
+C2173,249,7,893.79,2,4,4,Loyal Customers
+C2174,232,1,38.14,2,1,1,Lost
+C2175,177,4,256.15,3,2,1,Regular Customers
+C2176,292,8,948.35,1,4,4,Loyal Customers
+C2177,298,1,63.94,1,1,1,Lost
+C2178,84,11,2868.37,4,5,5,Champions
+C2179,113,6,526.89,4,4,3,Champions
+C2180,263,3,172.95,2,2,1,About to Sleep
+C2181,107,6,710.41,4,4,3,Champions
+C2182,224,10,1021.3299999999999,3,5,4,Loyal Customers
+C2183,11,16,2724.33,5,5,5,Champions
+C2184,268,2,95.8,2,1,1,Lost
+C2185,145,3,333.97,4,2,2,Potential Loyalists
+C2186,231,3,300.65,3,2,2,Regular Customers
+C2187,343,1,86.08,1,1,1,Lost
+C2188,249,7,859.51,2,4,4,Loyal Customers
+C2189,5,10,1989.15,5,5,5,Champions
+C2190,190,5,631.98,3,3,3,Regular Customers
+C2191,59,7,1105.06,4,4,4,Champions
+C2192,184,6,1045.3,3,4,4,Loyal Customers
+C2193,59,11,1323.93,4,5,5,Champions
+C2194,49,7,958.83,4,4,4,Champions
+C2195,282,3,285.82,2,2,2,About to Sleep
+C2196,14,14,1994.54,5,5,5,Champions
+C2197,284,4,646.02,2,2,3,About to Sleep
+C2198,284,5,660.19,2,3,3,At Risk
+C2199,52,9,1689.88,4,5,5,Champions
